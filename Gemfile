@@ -25,6 +25,13 @@ gem 'bootstrap-sass', '2.3.2.0'
 # added for password encryption
 gem 'bcrypt-ruby', '3.1.2'
 
+# added to create dummy records
+gem 'faker', '1.1.2'
+
+# for pagination
+gem 'will_paginate', '3.0.4'
+gem 'bootstrap-will_paginate', '0.0.9'
+
 # Use Uglifier as compressor for JavaScript assets
 gem 'uglifier', '>= 1.3.0'
 
